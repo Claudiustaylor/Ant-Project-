@@ -1,4 +1,7 @@
---Create Ant class 
+--Create Ant Functions
+
+local Ant = {}
+
 
 --Create Ant movement 
 
